@@ -40,29 +40,6 @@ DynamoDB (used in select projects)
 
 
 
-
-📂 Project Structure
-portfolio/
-├── public/
-│   ├── assets/               # Images and static assets (e.g., heroImage.png, mysql.png)
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── About.jsx         # About section with bio and stats
-│   │   ├── Contact.jsx       # Contact form and social links
-│   │   ├── Education.jsx     # Educational background
-│   │   ├── Footer.jsx        # Footer with contact info
-│   │   ├── Hero.jsx          # Hero section with profile image
-│   │   ├── Navbar.jsx        # Navigation bar with active link indicator
-│   │   ├── Project.jsx       # Projects showcase
-│   │   ├── Skills.jsx        # Skills and tools overview
-│   │   └── SkillCard.jsx     # Reusable skill card component
-│   ├── App.jsx               # Main app component
-│   └── index.css             # Global styles (Tailwind CSS)
-├── package.json              # Project dependencies and scripts
-└── README.md                 # This file
-
-
 🚀 Setup Instructions
 Follow these steps to run the project locally:
 Prerequisites
